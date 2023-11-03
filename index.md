@@ -6,6 +6,12 @@ author_profile: true
 ### About me
 I am a master's student at Kyoto University, Kyoto, Japan, under the supervision of [Prof. Kazunori Sakurama and Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/members_e.html). I received a B.E in Mechanical Engineering in 2022 from Kyoto University, Kyoto Japan. My research interests lie at the intersection of optimization, control theory and networked systems.
 
+### Preprint
+
+- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." arXiv preprint arXiv:2310.18625 (2023). [[arXiv]](https://arxiv.org/abs/2310.18625)
+
+- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks." arXiv preprint arXiv:2304.10921 (2023). [[arXiv]](https://arxiv.org/abs/2304.10921)
+
 ### Publications
 
 - **Y. Watanabe** and K. Sakurama, “Distributed optimization of clique-wise coupled problems,” in the
@@ -18,9 +24,3 @@ optimization with clique-wise coupled constraints,” in the 22nd IFAC World Con
 - **Y. Watanabe** and K. Sakurama, “Distributed dynamic matching of two groups of agents with different
 sensing ranges,” in the 61st IEEE Conference on Decision and Control (CDC), Cancun, Mexico, 2022,
 pp. 5916–5921. [[url]](https://ieeexplore.ieee.org/abstract/document/9993395) [[slide]](https://drive.google.com/file/d/1ET6BVsJRdsJL14AmMctc9dIXT_bd6rDw/view?usp=sharing)
-
-### Preprint
-
-- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." arXiv preprint arXiv:2310.18625 (2023). [[arXiv]](https://arxiv.org/abs/2310.18625)
-
-- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks." arXiv preprint arXiv:2304.10921 (2023). [[arXiv]](https://arxiv.org/abs/2304.10921)
