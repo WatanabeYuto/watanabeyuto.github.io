@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 ### About me
-I am a master's student at Kyoto University, Kyoto, Japan, under the supervision of [Prof. Kazunori Sakurama and Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/members_e.html). I received a B.E in Mechanical Engineering in 2022 from Kyoto University, Kyoto Japan. My research interests lie at the intersection of optimization, control theory and networked systems.
+I am a master's student at the Graduate school of Informatics, Kyoto University, Kyoto, Japan, under the supervision of [Prof. Kazunori Sakurama and Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/members_e.html). I received a B.E in Mechanical Engineering in 2022 from Kyoto University. My research interests lie at the intersection of optimization, control theory and networked systems.
 
 ### Preprint
 
