@@ -111,7 +111,7 @@ author:
   email            : "watanabe.yuto.34e@st.kyoto-u.ac.jp"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/yuto-watanabe-7340ba27a/"
     - label: "CV"
       icon: "fas fa-fw fa-link"
