@@ -10,12 +10,14 @@ I am a master's student at the Graduate school of Informatics, Kyoto University,
 
 - **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." arXiv preprint arXiv:2310.18625 (2023). [[arXiv]](https://arxiv.org/abs/2310.18625)
 
-- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks." arXiv preprint arXiv:2304.10921 (2023). [[arXiv]](https://arxiv.org/abs/2304.10921)
+### Peer-reviewed journal papers
 
-### Publications
+- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024 (accepted).
+
+### Peer-reviewed conference papers
 
 - **Y. Watanabe** and K. Sakurama, “Distributed optimization of clique-wise coupled problems,” in the
-62nd IEEE Conference on Decision and Control (CDC), Singapore, 2023 (accepted). [[arXiv]](https://arxiv.org/abs/2304.10904)
+62nd IEEE Conference on Decision and Control (CDC), Singapore, 2023. [[arXiv]](https://arxiv.org/abs/2304.10904)
 
 - **Y. Watanabe** and K. Sakurama, “Accelerated distributed projected gradient descent for convex
 optimization with clique-wise coupled constraints,” in the 22nd IFAC World Congress, Yokohama, Japan, 2023. [[arXiv]](https://arxiv.org/abs/2211.06284) [[slide]](https://drive.google.com/file/d/18eFJD-pbYeG8jPoaMKLd6CcjYlKPyjIa/view?usp=sharing)
