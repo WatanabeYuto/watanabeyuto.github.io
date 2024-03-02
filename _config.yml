@@ -117,7 +117,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://drive.google.com/file/d/16_bixdwOetd2eud4pvrPP9uYVlxw8cyw/view?usp=sharing"
     - label: "Google Scholar"
-      icon: "fab fa-google-scholar"
+      icon: " fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?hl=en&user=nAkvOwMAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
