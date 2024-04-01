@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-Yuto Watanabe
+Yuto Watanabe (渡邊 優大)
 
 ### Bio
 Yuto Watanabe received the bachelor degree in mechanical engineering and master's degree in informatics under the supervision of Prof. Kazunori Sakurama and Prof. Toshiyuki Ohtsuka both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
