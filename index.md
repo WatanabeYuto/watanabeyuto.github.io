@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 ---
+## Yuto Watanabe
 
 ### Bio
 Yuto Watanabe received the bachelor degree in mechanical engineering and master's degree in informatics under the supervision of Prof. Kazunori Sakurama and Prof. Toshiyuki Ohtsuka both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
@@ -15,7 +16,7 @@ He was awarded the Funai Overseas Scholarship.
 
 ### Peer-reviewed journal papers
 
-- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024 (accepted). [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10453999) [[arXiv]](https://arxiv.org/abs/2304.10921)
+- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024 (accepted). [[url]](https://ieeexplore.ieee.org/abstract/document/10453999) [[arXiv]](https://arxiv.org/abs/2304.10921)
 
 ### Peer-reviewed conference papers
 
