@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Yuto Watanabe"
   avatar           : "/assets/photo.png"
-  bio              : "I am a master's student at Kyoto University, Kyoto, Japan."
+  bio              : "I am now at Kyoto University funded by , Kyoto, Japan. I will start my Ph.D. at UCSD in September, 2024."
   location         : "Kyoto, Japan"
   email            : "watanabe.yuto.34e@st.kyoto-u.ac.jp"
   links:
@@ -115,7 +115,7 @@ author:
       url: "https://www.linkedin.com/in/yuto-watanabe-7340ba27a/"
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "https://drive.google.com/file/d/16_bixdwOetd2eud4pvrPP9uYVlxw8cyw/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1uM3uDkQ9DSlpOEOANm8QUgQ7q5mbluZi/view?usp=drive_link"
     - label: "Google Scholar"
       icon: " fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?hl=en&user=nAkvOwMAAAAJ&view_op=list_works&sortby=pubdate"
