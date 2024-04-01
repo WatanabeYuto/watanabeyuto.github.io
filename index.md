@@ -3,8 +3,8 @@ layout: single
 author_profile: true
 ---
 
-### About me
-Yuto Watanabe received the bachelor degree in mechanical engineering and master's degree in informatics both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
+### Bio
+Yuto Watanabe received the bachelor degree in mechanical engineering and master's degree in informatics under the supervision of Prof. Kazunori Sakurama and Prof. Toshiyuki Ohtsuka both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
 He is currently at Kyoto University as a Ph.D. student funded by JSPS Research Fellowship for Young Scientist (Tokubetsu Kenkyuin) DC1.
 His research interests include control and optimization for networked systems.
 He was awarded the Funai Overseas Scholarship.
