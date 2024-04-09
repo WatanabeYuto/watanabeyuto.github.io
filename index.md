@@ -12,6 +12,9 @@ He was awarded the Funai Overseas Scholarship.
 
 ### Preprints
 
+- **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
+with a Class of Non-Block-Diagonal Lyapunov Functions,” arXiv preprint arXiv:2404.04576, 2024. [[arXiv]](https://arxiv.org/abs/2404.04576)
+
 - **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." arXiv preprint arXiv:2310.18625 (2023). [[arXiv]](https://arxiv.org/abs/2310.18625)
 
 ### Peer-reviewed journal papers
