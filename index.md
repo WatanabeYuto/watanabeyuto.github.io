@@ -36,4 +36,4 @@ pp. 5916–5921. [[url]](https://ieeexplore.ieee.org/abstract/document/9993395) 
 
 ### Note
 
-It is a great pleasure that I will start my Ph.D. at UC San Diego in September 2024.
+It is a great pleasure that I will start my Ph.D. research at UC San Diego in September 2024.
