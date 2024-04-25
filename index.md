@@ -5,7 +5,7 @@ author_profile: true
 Yuto Watanabe/渡邊優大
 
 ### Bio
-Yuto Watanabe received the bachelor's degree in mechanical engineering and master's degree in informatics under the supervision of Prof. [Kazunori Sakurama](http://www.ids.sys.i.kyoto-u.ac.jp/sakurama/index_e.html) and Prof. [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm) both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
+Yuto Watanabe received the bachelor's degree in mechanical engineering and master's degree in informatics under the supervision of [Prof. Kazunori Sakurama](http://www.ids.sys.i.kyoto-u.ac.jp/sakurama/index_e.html) and [Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm) both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
 He is currently at Kyoto University as a Ph.D. student funded by the JSPS Research Fellowship for Young Scientist (Tokubetsu Kenkyuin) DC1.
 His research interests include control and optimization for networked systems.
 He was awarded the Funai Overseas Scholarship.
