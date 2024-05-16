@@ -20,7 +20,7 @@ title                    : "Yuto Watanabe"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yuto Watanabe"
-description              : "Master's student at Kyoto University Japan"
+description              : "An incoming Ph.D. student at UC San Diego."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,7 +112,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fas fa fa-linkedin"
-      # url: "https://www.linkedin.com/in/yuto-watanabe-7340ba27a/"
+      url: "https://www.linkedin.com/in/yuto-watanabe-7340ba27a/"
     - label: "CV"
       icon: "fas fa-fw fa-link"
       url: "https://watanabeyuto.github.io/WatanbeYuto.github.io/assets/CV2024April.pdf"
