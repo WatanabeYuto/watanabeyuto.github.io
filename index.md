@@ -5,7 +5,7 @@ author_profile: true
 Yuto Watanabe/渡邊優大
 
 ### Bio
-Yuto Watanabe received the bachelor's degree in mechanical engineering and master's degree in informatics under the supervision of [Prof. Kazunori Sakurama](http://www.ids.sys.i.kyoto-u.ac.jp/sakurama/index_e.html) and [Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm) both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
+Yuto Watanabe was born at Toyota City, Japan, in 1999. He received the bachelor's degree in mechanical engineering and master's degree in informatics under the supervision of [Prof. Kazunori Sakurama](http://www.ids.sys.i.kyoto-u.ac.jp/sakurama/index_e.html) and [Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm) both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
 He is currently at Kyoto University as a Ph.D. student funded by the JSPS Research Fellowship for Young Scientist (Tokubetsu Kenkyuin) DC1.
 His research interests include control and optimization for networked systems.
 He was awarded the Funai Overseas Scholarship.
@@ -13,7 +13,7 @@ He was awarded the Funai Overseas Scholarship.
 ### Preprints
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
-with a Class of Non-Block-Diagonal Lyapunov Functions,” arXiv preprint arXiv:2404.04576, 2024. [[arXiv]](https://arxiv.org/abs/2404.04576)
+with a Class of Non-Block-Diagonal Lyapunov Functions,” arXiv preprint arXiv:2404.04576 (2024). [[arXiv]](https://arxiv.org/abs/2404.04576)
 
 - **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." arXiv preprint arXiv:2310.18625 (2023). [[arXiv]](https://arxiv.org/abs/2310.18625)
 
