@@ -8,14 +8,18 @@ Yuto Watanabe/渡邊優大
 Yuto Watanabe was born at Toyota city, Aichi, Japan, in 1999. He received the Bachelor's degree in Mechanical engineering and Master's degree in Informatics under the supervision of [Prof. Kazunori Sakurama](http://www.ids.sys.i.kyoto-u.ac.jp/sakurama/index_e.html) and [Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm) both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
 He is currently at Kyoto University as a Ph.D. student funded by the JSPS Research Fellowship for Young Scientist (Tokubetsu Kenkyuin) DC1.
 His research interests include control and optimization for networked systems.
-He was awarded the Funai Overseas Scholarship.
+He was awarded the 2024 Funai Overseas Scholarship.
+
+In my free time, I enjoy running, juggling, listening to music, and reading sci-fi novels.
 
 ### Preprints
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
-with a Class of Non-Block-Diagonal Lyapunov Functions,” arXiv preprint arXiv:2404.04576 (2024). [[arXiv]](https://arxiv.org/abs/2404.04576)
+with a Class of Non-Block-Diagonal Lyapunov Functions,” submitted to IEEE Transactions on Automatic Control (under review).
+[[arXiv]](https://arxiv.org/abs/2404.04576)
 
-- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." arXiv preprint arXiv:2310.18625 (2023). [[arXiv]](https://arxiv.org/abs/2310.18625)
+- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." submitted to IEEE Transactions on Automatic Control (under review).
+[[arXiv]](https://arxiv.org/abs/2310.18625)
 
 ### Peer-reviewed journal papers
 
@@ -36,4 +40,4 @@ pp. 5916–5921. [[url]](https://ieeexplore.ieee.org/abstract/document/9993395) 
 
 ### Note
 
-It is a great pleasure that I will start my Ph.D. research at UC San Diego in September 2024.
+It is a great pleasure that I can start my Ph.D. research at UC San Diego in September 2024.
