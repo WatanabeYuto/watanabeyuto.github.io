@@ -40,7 +40,3 @@ optimization with clique-wise coupled constraints,” in the 22nd IFAC World Con
 - **Y. Watanabe** and K. Sakurama, “Distributed dynamic matching of two groups of agents with different
 sensing ranges,” in the 61st IEEE Conference on Decision and Control (CDC), Cancun, Mexico, 2022,
 pp. 5916–5921. [[url]](https://ieeexplore.ieee.org/abstract/document/9993395) [[slide]](https://drive.google.com/file/d/1ET6BVsJRdsJL14AmMctc9dIXT_bd6rDw/view?usp=sharing)
-
-### Note
-
-It is a great pleasure that I can start my Ph.D. research at UC San Diego in September 2024.
