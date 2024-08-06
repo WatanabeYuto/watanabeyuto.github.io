@@ -14,8 +14,8 @@
 main:
   # - title: "Research"
     # url: /research/
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publication/
   - title: "CV"
     url: /cv/
   - title: "日本語"
