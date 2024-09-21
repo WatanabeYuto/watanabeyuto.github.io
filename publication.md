@@ -3,9 +3,11 @@ layout: single
 author_profile: true
 ---
 
-[Google scholar](https://scholar.google.com/citations?hl=en&user=nAkvOwMAAAAJ&view_op=list_works&sortby=pubdate).
+[Google scholar](https://scholar.google.com/citations?hl=en&user=nAkvOwMAAAAJ&view_op=list_works&sortby=pubdate)
 
 ### Preprints
+
+- S. Fushimi, **Y. Watanabe**, and K. Sakurama, "Distributed Controller Design for Discrete-Time Systems Via the Integration of Extended LMI and Clique-Wise Decomposition", submitted to IEEE Control Systems Letters (ACC) (under review). [[arxiv]](https://arxiv.org/abs/2409.07666)
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
 with a Class of Non-Block-Diagonal Lyapunov Functions,” submitted to IEEE Transactions on Automatic Control (under review).
