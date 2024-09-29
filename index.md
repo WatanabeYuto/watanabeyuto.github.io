@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-redirect_from: "https://watanabeyuto.github.io/WatanbeYuto.github.io/"
+redirect_from: https://watanabeyuto.github.io/WatanbeYuto.github.io/
 ---
 Yuto Watanabe/渡邊優大
 
