@@ -16,7 +16,7 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” submitted to IEEE Tran
 
 ### Peer-reviewed journal papers
 
-- S. Fushimi, **Y. Watanabe**, and K. Sakurama, "Distributed Controller Design for Discrete-Time Systems Via the Integration of Extended LMI and Clique-Wise Decomposition", IEEE Control Systems Letters (ACC), 2025 (accepted). [[arxiv]](https://arxiv.org/abs/2409.07666)
+- S. Fushimi, **Y. Watanabe**, and K. Sakurama, "Distributed Controller Design for Discrete-Time Systems Via the Integration of Extended LMI and Clique-Wise Decomposition", IEEE Control Systems Letters (ACC), 2024 (accepted). [[arxiv]](https://arxiv.org/abs/2409.07666)
 
 - **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024 (accepted). [[url]](https://ieeexplore.ieee.org/abstract/document/10453999) [[arXiv]](https://arxiv.org/abs/2304.10921)
 
