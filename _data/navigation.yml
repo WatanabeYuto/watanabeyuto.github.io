@@ -18,5 +18,7 @@ main:
     url: /publication/
   - title: "CV"
     url: /cv/
+  - title: "Bio"
+    url: /Bio/
   - title: "日本語"
     url: /Japanese/
