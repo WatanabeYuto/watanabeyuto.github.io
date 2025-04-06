@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 ---
 
-### Bio
 I was born in TOYOTA city, Aichi, Japan, on October 16 1999.
 
 I received the Bachelor's degree in Mechanical engineering and Master's degree in Informatics both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.

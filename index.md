@@ -18,6 +18,4 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 - 2025 April: Check out [our new preprint](https://arxiv.org/abs/2504.02201) on a **primal-dual perspective** for LQ differential games and H infinity control! In this work, we present a new proof for solving them from a semidefinite programming and duality perspective.
 
-- 2025 March: Check out our [our new preprint](https://arxiv.org/abs/2503.10964) on a revisit of LQR! This is my first work at UCSD! In this work, we show **strong duality** of the LQR policy optimization problem, despite the nonconvexity, and provide a more generalized analysis for the **gradient dominance**. We also provide a new SDP and duality-based proof for LQR! (Check out [this slide](https://drive.google.com/file/d/1yij6Shnm9-aObMxfb68spP4ocih-qUfD/view?usp=sharing)!)
-
-- 2024 September: Started my Ph.D. at UCSD!
+- 2025 March: Check out [our new preprint](https://arxiv.org/abs/2503.10964) on **a revisit of LQR**! This is my first work at UCSD! In this work, we show **strong duality** of the LQR policy optimization problem, despite the nonconvexity, and provide a more generalized analysis for the **gradient dominance**. We also provide a new SDP and duality-based proof for LQR! (Also check out [this slide](https://drive.google.com/file/d/1yij6Shnm9-aObMxfb68spP4ocih-qUfD/view?usp=sharing)!)
