@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: true
+---
+
 ### Bio
 I was born in TOYOTA city, Aichi, Japan, on October 16 1999.
 
