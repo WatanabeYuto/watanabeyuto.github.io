@@ -7,6 +7,11 @@ author_profile: true
 
 ### Preprints
 
+- **Y. Watanabe**, C.-F. Pai, and Y. Zheng, “Semidefinite programming duality in infinite-horizon linear quadratic games,” submitted to IEEE CDC 2025. [[arXiv]](https://arxiv.org/abs/2504.02201)
+
+- **Y. Watanabe** and Y. Zheng, Revisiting strong duality, hidden convexity, and gradient
+dominance in the linear quadratic regulator, (in preparation). [[arXiv]](https://arxiv.org/abs/2503.10964)
+
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
 with a Class of Non-Block-Diagonal Lyapunov Functions,” submitted to IEEE Transactions on Automatic Control (under review).
 [[arXiv]](https://arxiv.org/abs/2404.04576)

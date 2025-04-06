@@ -6,16 +6,19 @@ redirect_from: https://watanabeyuto.github.io/WatanbeYuto.github.io/
 Yuto Watanabe/渡邊優大
 
 ### Bio
-I was born in TOYOTA city, Aichi, Japan, on October 16 1999.
-
-I received the Bachelor's degree in Mechanical engineering and Master's degree in Informatics both from Kyoto University, Kyoto, Japan, in 2022 and in 2024, respectively.
-I was fortunate to be advised by [Prof. Kazunori Sakurama](http://www.ids.sys.i.kyoto-u.ac.jp/sakurama/index_e.html) and [Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm).
-From April 2024 to August 2024, I was a research fellow at Kyoto University funded by the JSPS Research Fellowship for Young Scientist DC1.
-
-From September 2024, I am a Ph.D. student at the ECE department, University of California San Diego, USA.
-I work at the Scalable Optimization and Control (SOC) Lab under the supervision of [Prof. Yang Zheng](https://zhengy09.github.io/index.html).
-
-My research interests include control theory, optimization, and their applications to network systems (e.g., distributed algorithms).
+I am a first-year Ph.D. student at the ECE department, University of California San Diego, USA.
+I am fortunate to be advised by [Prof. Yang Zheng](https://zhengy09.github.io/index.html).
+Previously, I obtained the bachelor's and master's degrees from Kyoto University, where I was working with [Prof. Kazunori Sakurama](http://www.ids.sys.i.kyoto-u.ac.jp/sakurama/index_e.html) and [Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm).
 I was awarded the 2024 Funai Overseas Scholarship.
 
+My research interests include control theory, optimization, and  their underlying duality.
+
 In my free time, I enjoy running, juggling, and listening to music.
+
+### Updates
+
+- 2025 April: Check out [[our new preprint]](https://arxiv.org/abs/2504.02201) on a **primal-dual perspective** for LQ differential games and H infinity control! In this work, we present a new proof for solving them from a semidefinite programming and duality perspective.
+
+- 2025 March: Check out our [[our new preprint]](https://arxiv.org/abs/2503.10964) on a revisit of LQR! This is my first work at UCSD! In this work, we show **strong duality** of the LQR policy optimization problem, despite the nonconvexity, and provide a more generalized analysis for the **gradient dominance**. We also provide a new SDP and duality-based proof for LQR! (Also see [[this slide]](https://drive.google.com/file/d/1yij6Shnm9-aObMxfb68spP4ocih-qUfD/view?usp=sharing)!)
+
+- 2024 September: Started my Ph.D. at UCSD!
