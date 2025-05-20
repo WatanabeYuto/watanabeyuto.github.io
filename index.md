@@ -14,7 +14,7 @@ My research interests include control theory, optimization, and  their underlyin
 
 In my free time, I enjoy running, juggling, and listening to music.
 
-<div style="font-size: 0.8em">
+<span style="font-size: 70%;">
 
 ### Research updates
 
@@ -26,4 +26,4 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 - 2025 May: I finished the La Jolla half marathon with the time [1:39:24](https://runsignup.com/Race/Results/116383#resultSetId-550895;page:2;perpage:100)! 
 
-</div>
+</span>
