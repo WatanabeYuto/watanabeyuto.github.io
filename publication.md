@@ -7,8 +7,6 @@ author_profile: true
 
 ### Preprints
 
-- **Y. Watanabe**, C.-F. Pai, and Y. Zheng, “Semidefinite programming duality in infinite-horizon linear quadratic games,” submitted to IEEE CDC 2025. [[arXiv]](https://arxiv.org/abs/2504.02201)
-
 - **Y. Watanabe** and Y. Zheng, Revisiting strong duality, hidden convexity, and gradient
 dominance in the linear quadratic regulator, submitted to SIAM Journal on Control and Optimization. [[arXiv]](https://arxiv.org/abs/2503.10964)
 
@@ -26,6 +24,9 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” submitted to IEEE Tran
 - **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024 (accepted). [[url]](https://ieeexplore.ieee.org/abstract/document/10453999) [[arXiv]](https://arxiv.org/abs/2304.10921)
 
 ### Peer-reviewed conference papers
+
+- **Y. Watanabe**, C.-F. Pai, and Y. Zheng, “Semidefinite programming duality in infinite-horizon linear quadratic games,” in the
+64th IEEE Conference on Decision and Control (CDC), Rio de Janeiro, Brazil, 2025. [[arXiv]](https://arxiv.org/abs/2504.02201)
 
 - **Y. Watanabe** and K. Sakurama, “Distributed optimization of clique-wise coupled problems,” in the
 62nd IEEE Conference on Decision and Control (CDC), Singapore, 2023. [[arXiv]](https://arxiv.org/abs/2304.10904)
