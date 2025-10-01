@@ -18,7 +18,7 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 ### Research updates
 
-- 2025 September: Check out [our new preprint](https://arxiv.org/abs/2509.25633) on the convergence analysis **nonsmooth and nonconvex H-infinity Optimization**! In this work, we present the first deterministic convergence rate for the simplest subgradient method by leveraging **weak convexity**.
+- 2025 September: Check out [our new preprint](https://arxiv.org/abs/2509.25633) on the convergence analysis for **nonsmooth and nonconvex H-infinity optimal controller design**! In this work, we present the first deterministic convergence rate for the simplest subgradient method by leveraging **weak convexity**.
 
 - 2025 April: Check out [our new preprint](https://arxiv.org/abs/2504.02201) on a **primal-dual perspective** for LQ differential games and H infinity control! In this work, we present a new proof for solving them from a semidefinite programming and duality perspective. **Note: This paper got accedpted to IEEE CDC2025!**
 
