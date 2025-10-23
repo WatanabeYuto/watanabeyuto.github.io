@@ -7,7 +7,7 @@ author_profile: true
 
 ### Preprints
 
-- **Y. Watanabe**, F.-Y. Liao, and Y. Zheng, Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods. [[arXiv]](https://arxiv.org/abs/2509.25633)
+- **Y. Watanabe**, F.-Y. Liao, and Y. Zheng, Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods. [[arXiv]](https://arxiv.org/abs/2509.25633) [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
 
 - **Y. Watanabe** and Y. Zheng, Revisiting strong duality, hidden convexity, and gradient
 dominance in the linear quadratic regulator, submitted to SIAM Journal on Control and Optimization. [[arXiv]](https://arxiv.org/abs/2503.10964)
