@@ -21,7 +21,7 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” submitted to IEEE Tran
 
 ### Peer-reviewed journal papers
 
-- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." submitted to IEEE Transactions on Automatic Control, 2026 (accepted).
+- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." IEEE Transactions on Automatic Control, 2026 (accepted).
 [[arXiv]](https://arxiv.org/abs/2310.18625)
 
 - S. Fushimi, **Y. Watanabe**, and K. Sakurama, "Distributed Controller Design for Discrete-Time Systems Via the Integration of Extended LMI and Clique-Wise Decomposition", IEEE Control Systems Letters (ACC), 2024 (accepted). [[arxiv]](https://arxiv.org/abs/2409.07666)
