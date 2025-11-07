@@ -7,23 +7,26 @@ author_profile: true
 
 ### Preprints
 
-- **Y. Watanabe**, F.-Y. Liao, and Y. Zheng, Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods. [[arXiv]](https://arxiv.org/abs/2509.25633) [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
+- C.-F. Pai, **Y. Watanabe**, Y. Tang, and Y. Zheng, "Policy Optimization for Mixed $\mathcal{H}_2/\mathcal{H}_\infty$ Control: Benign Nonconvexity and Global Optimality", submitted to Automatica.
 
-- **Y. Watanabe** and Y. Zheng, Revisiting strong duality, hidden convexity, and gradient
-dominance in the linear quadratic regulator, submitted to SIAM Journal on Control and Optimization. [[arXiv]](https://arxiv.org/abs/2503.10964)
+- **Y. Watanabe**, F.-Y. Liao, and Y. Zheng, "Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods", submitted to ACC2026. [[arXiv]](https://arxiv.org/abs/2509.25633) [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
+
+- **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
+dominance in the linear quadratic regulator", submitted to SIAM Journal on Control and Optimization (under review). [[arXiv]](https://arxiv.org/abs/2503.10964)
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
 with a Class of Non-Block-Diagonal Lyapunov Functions,” submitted to IEEE Transactions on Automatic Control (under review).
 [[arXiv]](https://arxiv.org/abs/2404.04576)
 
-- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." submitted to IEEE Transactions on Automatic Control (under review).
-[[arXiv]](https://arxiv.org/abs/2310.18625)
 
 ### Peer-reviewed journal papers
 
+- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." submitted to IEEE Transactions on Automatic Control, 2026 (accepted).
+[[arXiv]](https://arxiv.org/abs/2310.18625)
+
 - S. Fushimi, **Y. Watanabe**, and K. Sakurama, "Distributed Controller Design for Discrete-Time Systems Via the Integration of Extended LMI and Clique-Wise Decomposition", IEEE Control Systems Letters (ACC), 2024 (accepted). [[arxiv]](https://arxiv.org/abs/2409.07666)
 
-- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024 (accepted). [[url]](https://ieeexplore.ieee.org/abstract/document/10453999) [[arXiv]](https://arxiv.org/abs/2304.10921)
+- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10453999) [[arXiv]](https://arxiv.org/abs/2304.10921)
 
 ### Peer-reviewed conference papers
 
