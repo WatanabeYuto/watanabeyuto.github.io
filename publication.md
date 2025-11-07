@@ -7,7 +7,7 @@ author_profile: true
 
 ### Preprints
 
-- C.-F. Pai, **Y. Watanabe**, Y. Tang, and Y. Zheng, "Policy Optimization for Mixed $$\mathcal{H}_2/\mathcal{H}_\infty$$ Control: Benign Nonconvexity and Global Optimality", submitted to Automatica.
+- C.-F. Pai, **Y. Watanabe**, Y. Tang, and Y. Zheng, "Policy Optimization for Mixed H2/H-infinity Control: Benign Nonconvexity and Global Optimality", submitted to Automatica.
 
 - **Y. Watanabe**, F.-Y. Liao, and Y. Zheng, "Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods", submitted to ACC2026. [[arXiv]](https://arxiv.org/abs/2509.25633) [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
 
