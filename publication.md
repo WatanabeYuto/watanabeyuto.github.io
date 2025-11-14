@@ -14,12 +14,12 @@ author_profile: true
 - **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
 dominance in the linear quadratic regulator", submitted to SIAM Journal on Control and Optimization (under review). [[arXiv]](https://arxiv.org/abs/2503.10964)
 
-- **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
-with a Class of Non-Block-Diagonal Lyapunov Functions,” submitted to IEEE Transactions on Automatic Control (under review).
-[[arXiv]](https://arxiv.org/abs/2404.04576)
-
 
 ### Peer-reviewed journal papers
+
+- **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
+with a Class of Non-Block-Diagonal Lyapunov Functions,” submitted to IEEE Transactions on Automatic Control, 2026 (accepted).
+[[arXiv]](https://arxiv.org/abs/2404.04576)
 
 - **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." IEEE Transactions on Automatic Control, 2026 (accepted).
 [[arXiv]](https://arxiv.org/abs/2310.18625)
