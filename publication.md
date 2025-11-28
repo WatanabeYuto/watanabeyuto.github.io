@@ -5,6 +5,21 @@ author_profile: true
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=nAkvOwMAAAAJ&view_op=list_works&sortby=pubdate)
 
+### Selected papers
+
+- **Y. Watanabe**, F.-Y. Liao, and Y. Zheng, "Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods". [[arXiv]](https://arxiv.org/abs/2509.25633) [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
+
+- **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
+dominance in the linear quadratic regulator". [[arXiv]](https://arxiv.org/abs/2503.10964)
+
+- **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
+with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on Automatic Control, 2026.
+[[arXiv]](https://arxiv.org/abs/2404.04576)
+
+- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." IEEE Transactions on Automatic Control, 2026.
+[[arXiv]](https://arxiv.org/abs/2310.18625)
+
+
 ### Preprints
 
 - C.-F. Pai, **Y. Watanabe**, Y. Tang, and Y. Zheng, "Policy Optimization for Mixed H2/H-infinity Control: Benign Nonconvexity and Global Optimality", submitted to Automatica.
