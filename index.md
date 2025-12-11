@@ -18,6 +18,8 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 ### Research updates
 
+- 2025 December: A talk on [SDP-duality in LQ games](https://arxiv.org/abs/2504.02201) at IEEE CDC 2025 at Rio, Brazil. [[Slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
+
 - 2025 October: A talk on [nonsmooth nonconvex H-infinity optimization](https://arxiv.org/abs/2509.25633) at the Southern California Workshop at UC Irvine. [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
 
 - 2025 September: Check out [our new preprint](https://arxiv.org/abs/2509.25633) on the convergence analysis for **nonsmooth and nonconvex H-infinity optimal controller design**! In this work, we present the first deterministic convergence rate for the simplest subgradient method by leveraging **weak convexity**.
