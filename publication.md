@@ -47,7 +47,7 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 ### Peer-reviewed conference papers
 
 - **Y. Watanabe**, C.-F. Pai, and Y. Zheng, “Semidefinite programming duality in infinite-horizon linear quadratic games,” in the
-64th IEEE Conference on Decision and Control (CDC), Rio de Janeiro, Brazil, 2025. [[arXiv]](https://arxiv.org/abs/2504.02201)
+64th IEEE Conference on Decision and Control (CDC), Rio de Janeiro, Brazil, 2025. [[arXiv]](https://arxiv.org/abs/2504.02201) [[slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
 
 - **Y. Watanabe** and K. Sakurama, “Distributed optimization of clique-wise coupled problems,” in the
 62nd IEEE Conference on Decision and Control (CDC), Singapore, 2023. [[arXiv]](https://arxiv.org/abs/2304.10904)
