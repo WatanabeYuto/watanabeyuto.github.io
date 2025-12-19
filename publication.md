@@ -14,10 +14,10 @@ author_profile: true
 dominance in the linear quadratic regulator". [[arXiv]](https://arxiv.org/abs/2503.10964)
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
-with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on Automatic Control, 2026.
+with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on Automatic Control, 2026. [[URL]](https://ieeexplore.ieee.org/document/11264282)
 [[arXiv]](https://arxiv.org/abs/2404.04576)
 
-- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." IEEE Transactions on Automatic Control, 2026.
+- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." IEEE Transactions on Automatic Control, 2026. [[URL]](https://ieeexplore.ieee.org/document/11239461)
 [[arXiv]](https://arxiv.org/abs/2310.18625)
 
 
