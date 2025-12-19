@@ -20,7 +20,7 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 - 2025 December: A talk on [SDP-duality in LQ games](https://arxiv.org/abs/2504.02201) at IEEE CDC 2025 at Rio, Brazil. [[Slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
 
-- 2025 November: My two previous papers at Kyoto Univ. finnally got accepted to IEEE Transactions on Automatic Control. I express my deepest thanks to my former advisor, Prof. Sakurama. [[URL]](https://ieeexplore.ieee.org/document/11264282)  [[URL]](https://ieeexplore.ieee.org/document/11239461)
+- 2025 November: My two previous papers at Kyoto Univ finally got accepted to *IEEE Transactions on Automatic Control*. I express my deepest thanks to my former advisor, Prof. Sakurama. [[URL]](https://ieeexplore.ieee.org/document/11264282)  [[URL]](https://ieeexplore.ieee.org/document/11239461)
 
 - 2025 October: A talk on [nonsmooth nonconvex H-infinity optimization](https://arxiv.org/abs/2509.25633) at the Southern California Workshop at UC Irvine. [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
 
