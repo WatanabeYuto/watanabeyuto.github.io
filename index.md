@@ -20,7 +20,7 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 - 2026 January: [Our paper](https://arxiv.org/abs/2509.25633) got accedpted to **ACC2026**!
 In this work, we tackle the H-infinity policy optimization problem and
-present **the first deterministic convergence rate** for the simplest subgradient method by leveraging **weak convexity**. 
+present **the first deterministic convergence rate** for the simplest subgradient method by leveraging **weak convexity**. [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing) 
 
 - 2025 December: A talk on [SDP-duality in LQ games](https://arxiv.org/abs/2504.02201) at IEEE CDC 2025 at Rio, Brazil. [[Slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
 
