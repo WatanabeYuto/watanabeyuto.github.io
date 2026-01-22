@@ -18,13 +18,15 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 ### Research updates
 
+- 2026 January: [Our paper](https://arxiv.org/abs/2509.25633) got accedpted to **ACC2026**!
+In this work, we tackle the H-infinity policy optimization problem and
+present **the first deterministic convergence rate** for the simplest subgradient method by leveraging **weak convexity**. 
+
 - 2025 December: A talk on [SDP-duality in LQ games](https://arxiv.org/abs/2504.02201) at IEEE CDC 2025 at Rio, Brazil. [[Slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
 
 - 2025 November: My two previous papers at Kyoto Univ finally got accepted to *IEEE Transactions on Automatic Control*. I express my deepest thanks to my former advisor, Prof. Sakurama. [[URL]](https://ieeexplore.ieee.org/document/11264282)  [[URL]](https://ieeexplore.ieee.org/document/11239461)
 
 - 2025 October: A talk on [nonsmooth nonconvex H-infinity optimization](https://arxiv.org/abs/2509.25633) at the Southern California Workshop at UC Irvine. [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
-
-- 2025 September: Check out [our new preprint](https://arxiv.org/abs/2509.25633) on the convergence analysis for **nonsmooth and nonconvex H-infinity optimal controller design**! In this work, we present the first deterministic convergence rate for the simplest subgradient method by leveraging **weak convexity**.
 
 - 2025 April: Check out [our new preprint](https://arxiv.org/abs/2504.02201) on a **primal-dual perspective** for LQ differential games and H infinity control! In this work, we present a new proof for solving them from a semidefinite programming and duality perspective. **Note: This paper got accedpted to IEEE CDC2025!**
 
