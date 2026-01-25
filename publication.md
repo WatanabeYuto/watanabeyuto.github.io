@@ -21,6 +21,7 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 - **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." IEEE Transactions on Automatic Control, 2026. [[URL]](https://ieeexplore.ieee.org/document/11239461)
 [[arXiv]](https://arxiv.org/abs/2310.18625)
 
+---
 
 ### Preprints
 
