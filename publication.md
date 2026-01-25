@@ -8,7 +8,8 @@ author_profile: true
 
 ### Selected papers
 
-- **Y. Watanabe**, F.-Y. Liao, and Y. Zheng, "Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods", American Control Conference 2026 (accepted). [[arXiv]](https://arxiv.org/abs/2509.25633) [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
+- **Y. Watanabe**, F.-Y. Liao, and Y. Zheng, "Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods", American Control Conference 2026. [[arXiv]](https://arxiv.org/abs/2509.25633) [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
+**(Best Student Paper Award Finalist)**
 
 - **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
 dominance in the linear quadratic regulator". [[arXiv]](https://arxiv.org/abs/2503.10964)
