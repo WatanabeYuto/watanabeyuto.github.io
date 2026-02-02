@@ -12,7 +12,7 @@ author_profile: true
 **(Best Student Paper Award Finalist)**
 
 - **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
-dominance in the linear quadratic regulator". [[arXiv]](https://arxiv.org/abs/2503.10964) [Slides](https://drive.google.com/file/d/1yij6Shnm9-aObMxfb68spP4ocih-qUfD/view?usp=sharing)
+dominance in the linear quadratic regulator". [[arXiv]](https://arxiv.org/abs/2503.10964) [[Slides]](https://drive.google.com/file/d/1yij6Shnm9-aObMxfb68spP4ocih-qUfD/view?usp=sharing)
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
 with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on Automatic Control, 2026. [[URL]](https://ieeexplore.ieee.org/document/11264282)
