@@ -22,13 +22,14 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 
 ### Preprints
 
+- **Y. Watanabe** and Y. Zheng, "Gradient Dominance in the Linear Quadratic Regulator: A Unified Analysis for Continuous-Time and Discrete-Time Systems." [[arXiv]](https://arxiv.org/abs/2602.22577)
+
 - C.-F. Pai, **Y. Watanabe**, Y. Tang, and Y. Zheng, "Policy Optimization for Mixed H2/H-infinity Control: Benign Nonconvexity and Global Optimality", submitted to Automatica.
 
-- **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
-dominance in the linear quadratic regulator", submitted to SIAM Journal on Control and Optimization (under review). [[arXiv]](https://arxiv.org/abs/2503.10964)
-
-
 ### Peer-reviewed journal papers
+
+- **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
+dominance in the linear quadratic regulator", submitted to SIAM Journal on Control and Optimization, 2026 (accepted). [[arXiv]](https://arxiv.org/abs/2503.10964)
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
 with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on Automatic Control, 2026 (accepted).
