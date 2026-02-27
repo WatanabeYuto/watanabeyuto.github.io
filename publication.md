@@ -29,7 +29,7 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 ### Peer-reviewed journal papers
 
 - **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
-dominance in the linear quadratic regulator", submitted to SIAM Journal on Control and Optimization, 2026 (accepted). [[arXiv]](https://arxiv.org/abs/2503.10964)
+dominance in the linear quadratic regulator", SIAM Journal on Control and Optimization, 2026 (accepted). [[arXiv]](https://arxiv.org/abs/2503.10964)
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
 with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on Automatic Control, 2026 (accepted).
