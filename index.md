@@ -36,7 +36,7 @@ In my free time, I enjoy running, juggling, and listening to music.
 <!-- 
 - 2025 March: Check out [our new preprint](https://arxiv.org/abs/2503.10964) on **a revisit of LQR**! This is my first work at UCSD! In this work, we show **strong duality** of the LQR policy optimization problem, despite the nonconvexity, and provide a more generalized analysis for the **gradient dominance**. We also provide an SDP and duality-based proof for deriving the analytic solution to LQR! (Also check out [this slide](https://drive.google.com/file/d/1yij6Shnm9-aObMxfb68spP4ocih-qUfD/view?usp=sharing)!) -->
 
-### Unimportant personal updates
+<!-- ### Unimportant personal updates
 
-- 2025 May: I finished the La Jolla half marathon with the time [1:39:24](https://runsignup.com/Race/Results/116383#resultSetId-550895;page:2;perpage:100) (189/4451)! 
+- 2025 May: I finished the La Jolla half marathon with the time [1:39:24](https://runsignup.com/Race/Results/116383#resultSetId-550895;page:2;perpage:100) (189/4451)!  -->
 
