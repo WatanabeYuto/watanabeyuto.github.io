@@ -20,11 +20,11 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 ### Research updates
 
-- 2026 February: Check out our new paper on [Gradient Dominance in the Linear Quadratic Regulator: A Unified Analysis for Continuous-Time and Discrete-Time Systems](https://arxiv.org/abs/2602.22577).
+- 2026 February: Check out our new paper [Gradient Dominance in the Linear Quadratic Regulator: A Unified Analysis for Continuous-Time and Discrete-Time Systems](https://arxiv.org/abs/2602.22577).
 
-- 2026 February: Our paper on [Revisiting Strong Duality, Hidden Convexity, and Gradient Dominance in the Linear Quadratic Regulator](https://arxiv.org/abs/2503.10964) has been accepted to **SIAM Journal on Control and Optimization!**
+- 2026 February: Our paper [Revisiting Strong Duality, Hidden Convexity, and Gradient Dominance in the Linear Quadratic Regulator](https://arxiv.org/abs/2503.10964) has been accepted to **SIAM Journal on Control and Optimization!**
 
-- 2026 January: Our paper on [Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods](https://arxiv.org/abs/2509.25633) has been accepted to **ACC 2026** and selected as one of the **Best Student Paper Finalists**. [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
+- 2026 January: Our paper [Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods](https://arxiv.org/abs/2509.25633) has been accepted to **ACC 2026** and selected as one of the **Best Student Paper Finalists**. [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
 
 
 - 2025 December: A talk on [Semidefinite Programming Duality in Infinite-Horizon Linear Quadratic Differential Games](https://arxiv.org/abs/2504.02201) at **IEEE CDC 2025** at Rio, Brazil. [[Slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
