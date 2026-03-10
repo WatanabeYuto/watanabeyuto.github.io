@@ -10,7 +10,7 @@ Yuto Watanabe/渡邊優大
 ### Bio
 I am a Ph.D. student at the ECE department, University of California San Diego, USA.
 I am fortunate to be advised by [Prof. Yang Zheng](https://zhengy09.github.io/index.html).
-Previously, I obtained the bachelor's and master's degrees from Kyoto University, where I was working with [Prof. Kazunori Sakurama](http://www.ids.sys.i.kyoto-u.ac.jp/sakurama/index_e.html) and [Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm).
+Previously, I obtained the bachelor's and master's degrees from Kyoto University in 2022 and in 2024, respectively, where I was working with [Prof. Kazunori Sakurama](http://www.ids.sys.i.kyoto-u.ac.jp/sakurama/index_e.html) and [Prof. Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm).
 I was awarded the 2024 Funai Overseas Scholarship.
 My research interests include control theory, convex and nonconvex optimization, and  their underlying duality.
 
