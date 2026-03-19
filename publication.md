@@ -22,6 +22,8 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 
 ### Preprints
 
+- **Y. Watanabe** and Y. Zheng, "On the Strong Duality in Continuous-time and Discrete-time Linear Quadratic Regulators." submitted to IEEE Control Systems Letters (CDC).
+
 - **Y. Watanabe** and Y. Zheng, "Gradient Dominance in the Linear Quadratic Regulator: A Unified Analysis for Continuous-Time and Discrete-Time Systems." [[arXiv]](https://arxiv.org/abs/2602.22577)
 
 - C.-F. Pai, **Y. Watanabe**, Y. Tang, and Y. Zheng, "Policy Optimization for Mixed H2/H-infinity Control: Benign Nonconvexity and Global Optimality", submitted to Automatica. [[arXiv]](https://arxiv.org/abs/2603.04843)
