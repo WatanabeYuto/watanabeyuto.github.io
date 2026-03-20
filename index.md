@@ -20,7 +20,7 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 ### Research updates
 
-- 2026 February: Check out our new paper [Gradient Dominance in the Linear Quadratic Regulator: A Unified Analysis for Continuous-Time and Discrete-Time Systems](https://arxiv.org/abs/2602.22577).
+- 2026 February: Check out our new paper [Gradient Dominance in the Linear Quadratic Regulator: A Unified Analysis for Continuous-Time and Discrete-Time Systems](https://arxiv.org/abs/2602.22577). [[Slides]](https://drive.google.com/file/d/17O7PIXuA1OCcGdy_bmpJg0JzLxjXjJLk/view?usp=sharing)
 
 - 2026 February: Our paper [Revisiting Strong Duality, Hidden Convexity, and Gradient Dominance in the Linear Quadratic Regulator](https://arxiv.org/abs/2503.10964) has been accepted to **SIAM Journal on Control and Optimization!**
 
