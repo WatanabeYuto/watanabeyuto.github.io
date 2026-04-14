@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 author_profile: true
 ---
 For more details, see [Google scholar](https://scholar.google.com/citations?hl=en&user=nAkvOwMAAAAJ&view_op=list_works&sortby=pubdate)!
