@@ -5,7 +5,7 @@ author_profile: true
 For more details, see [Google scholar](https://scholar.google.com/citations?hl=en&user=nAkvOwMAAAAJ&view_op=list_works&sortby=pubdate)!
 
 
-### Policy optimization for fundamental control
+### 1. Policy optimization for fundamental control
 
 [Unified gradient dominance for continuous-time and discrete-time LQR problems](https://arxiv.org/abs/2602.22577)
 <p>
@@ -19,7 +19,7 @@ For more details, see [Google scholar](https://scholar.google.com/citations?hl=e
 </iframe>
 </p>
 
-### Semidefinite programming (SDP) duality in control
+### 2. Semidefinite programming (SDP) duality in control
 
 [SDP duality-based solution to Linear quadratic games](https://arxiv.org/abs/2509.25633)
 <p>
