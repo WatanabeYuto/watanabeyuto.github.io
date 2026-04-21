@@ -16,13 +16,11 @@ main:
     # url: /research/
   - title: "Publications"
     url: /publication/
-  - title: "CV"
-    url: /cv/
   - title: "Talks"
     url: /talks/
   - title: "Blog"
     url: /blog/
-  - title: "Bio"
-    url: /Bio/
+  - title: "CV"
+    url: /cv/
   - title: "日本語"
     url: /Japanese/
