@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+classes: wide
 ---
 
 2026-4-26: [Why controllability and observability are dual](https://www.notion.so/Why-controllability-and-observability-are-dual-34a3c6e1d30580cf898bde537f36068e?source=copy_link)
