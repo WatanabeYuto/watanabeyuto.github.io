@@ -19,7 +19,7 @@ For more details, see [Google scholar](https://scholar.google.com/citations?hl=e
 </iframe>
 </p>
 
-### 2. Semidefinite programming (SDP) duality in control
+### 2. Duality and nonconvexity in control
 
 [SDP duality-based solution to Linear quadratic games](https://arxiv.org/abs/2509.25633)
 <p>
