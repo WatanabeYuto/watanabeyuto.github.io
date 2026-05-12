@@ -23,7 +23,6 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 ### Preprints
 
 - **Y. Watanabe** and Y. Zheng, "On the Strong Duality in Continuous-time and Discrete-time Linear Quadratic Regulators." submitted to IEEE Control Systems Letters (CDC). [Link](https://watanabeyuto.github.io/assets/LCSSCDC2026.pdf)
-<p>
 
 - **Y. Watanabe** and Y. Zheng, "Gradient Dominance in the Linear Quadratic Regulator: A Unified Analysis for Continuous-Time and Discrete-Time Systems," submitted to Automatica. [[arXiv]](https://arxiv.org/abs/2602.22577) [[Slides]](https://drive.google.com/file/d/17O7PIXuA1OCcGdy_bmpJg0JzLxjXjJLk/view?usp=sharing)
 
