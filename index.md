@@ -29,7 +29,7 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 - 2026 February: Our paper [Revisiting Strong Duality, Hidden Convexity, and Gradient Dominance in the Linear Quadratic Regulator](https://arxiv.org/abs/2503.10964) has been accepted to **SIAM Journal on Control and Optimization!**
 
-- 2025 December: A talk on [Semidefinite Programming Duality in Infinite-Horizon Linear Quadratic Differential Games](https://arxiv.org/abs/2504.02201) at **IEEE CDC 2025** at Rio, Brazil. [[Slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
+- 2025 December: A talk on [Semidefinite Programming Duality in Infinite-Horizon Linear Quadratic Differential Games](https://arxiv.org/abs/2504.02201) at **IEEE CDC 2025** in Rio, Brazil. [[Slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
 
 - 2025 November: My two previous papers at Kyoto Univ finally got accepted to **IEEE Transactions on Automatic Control**. I express my deepest thanks to my former advisor, Prof. Sakurama. [[URL]](https://ieeexplore.ieee.org/document/11264282)  [[URL]](https://ieeexplore.ieee.org/document/11239461)
 
