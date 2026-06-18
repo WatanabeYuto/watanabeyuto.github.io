@@ -23,7 +23,7 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 ### Research updates
 
-- 2026 June: [Our paper on LQR](https://arxiv.org/abs/2606.17208v1) has been accepted for publication in IEEE Control Systems Letters.
+- 2026 June: [Our paper on duality in LQR](https://arxiv.org/abs/2606.17208v1) has been accepted for publication in IEEE Control Systems Letters.
 
 - 2026 May: I gave a talk at ACC 2026 in New Orleans: [Policy Optimization in Robust Control: Weak Convexity and Subgradient Methods](https://arxiv.org/abs/2509.25633). This work has been selected as one of the **Best Student Paper Finalists**. [[Slides]](https://drive.google.com/file/d/1H37gwgLJTSR2myNdTQ50rq6brpeEkW02/view?usp=sharing)
 
