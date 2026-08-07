@@ -31,16 +31,16 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 - **Y. Watanabe** and Y. Zheng, "On the Strong Duality in Continuous-time and Discrete-time Linear Quadratic Regulators," IEEE Control Systems Letters (accepted). [[arXiv]](https://arxiv.org/abs/2606.17208v1)
 
 - **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
-dominance in the linear quadratic regulator", SIAM Journal on Control and Optimization, 2026 (accepted). [[arXiv]](https://arxiv.org/abs/2503.10964)
+dominance in the linear quadratic regulator", SIAM Journal on Control and Optimization, 2026. [[arXiv]](https://arxiv.org/abs/2503.10964)
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
-with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on Automatic Control, 2026 (accepted).
+with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on Automatic Control, 2026.
 [[arXiv]](https://arxiv.org/abs/2404.04576)
 
-- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." IEEE Transactions on Automatic Control, 2026 (accepted).
+- **Y. Watanabe** and K. Sakurama, "Distributed Optimization of Clique-Wise Coupled Problems via Three-Operator Splitting." IEEE Transactions on Automatic Control, 2026.
 [[arXiv]](https://arxiv.org/abs/2310.18625)
 
-- S. Fushimi, **Y. Watanabe**, and K. Sakurama, "Distributed Controller Design for Discrete-Time Systems Via the Integration of Extended LMI and Clique-Wise Decomposition", IEEE Control Systems Letters (ACC), 2024 (accepted). [[arxiv]](https://arxiv.org/abs/2409.07666)
+- S. Fushimi, **Y. Watanabe**, and K. Sakurama, "Distributed Controller Design for Discrete-Time Systems Via the Integration of Extended LMI and Clique-Wise Decomposition", IEEE Control Systems Letters (ACC), 2024. [[arxiv]](https://arxiv.org/abs/2409.07666)
 
 - **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10453999) [[arXiv]](https://arxiv.org/abs/2304.10921)
 
