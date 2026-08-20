@@ -12,11 +12,10 @@ author_profile: true
 **(Best Student Paper Award Finalist)**
 
 - **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
-dominance in the linear quadratic regulator", SIAM Journal on Control and Optimization, 2026 (to appear). [[arXiv]](https://arxiv.org/abs/2503.10964) [[Slides]](https://drive.google.com/file/d/1yij6Shnm9-aObMxfb68spP4ocih-qUfD/view?usp=sharing) [[Follow-up]](https://arxiv.org/abs/2602.22577)
+dominance in the linear quadratic regulator", SIAM Journal on Control and Optimization, 2026. [[arXiv]](https://arxiv.org/abs/2503.10964) [[Slides]](https://drive.google.com/file/d/1yij6Shnm9-aObMxfb68spP4ocih-qUfD/view?usp=sharing) [[Follow-up]](https://arxiv.org/abs/2602.22577)
 
 - **Y. Watanabe**, S. Fushimi, and K. Sakurama, “Convex Reformulation of LMI-Based Distributed Controller Design
 with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on Automatic Control, 2026. [[URL]](https://ieeexplore.ieee.org/document/11264282)
-[[arXiv]](https://arxiv.org/abs/2404.04576)
 
 ---
 
@@ -28,7 +27,7 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 
 ### Peer-reviewed journal papers
 
-- **Y. Watanabe** and Y. Zheng, "On the Strong Duality in Continuous-time and Discrete-time Linear Quadratic Regulators," IEEE Control Systems Letters (accepted). [[arXiv]](https://arxiv.org/abs/2606.17208v1)
+- **Y. Watanabe** and Y. Zheng, "On the Strong Duality in Continuous-time and Discrete-time Linear Quadratic Regulators," IEEE Control Systems Letters. [[arXiv]](https://arxiv.org/abs/2606.17208v1)
 
 - **Y. Watanabe** and Y. Zheng, "Revisiting strong duality, hidden convexity, and gradient
 dominance in the linear quadratic regulator", SIAM Journal on Control and Optimization, 2026. [[arXiv]](https://arxiv.org/abs/2503.10964)
@@ -42,7 +41,7 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 
 - S. Fushimi, **Y. Watanabe**, and K. Sakurama, "Distributed Controller Design for Discrete-Time Systems Via the Integration of Extended LMI and Clique-Wise Decomposition", IEEE Control Systems Letters (ACC), 2024. [[arxiv]](https://arxiv.org/abs/2409.07666)
 
-- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10453999) [[arXiv]](https://arxiv.org/abs/2304.10921)
+- **Y. Watanabe**, K. Sakurama, H.-S. Ahn, "Gradient-Based Distributed Controller Design Over Directed Networks," IEEE Transactions on Control of Network Systems, 2024. [[url]](https://ieeexplore.ieee.org/abstract/document/10453999)
 
 ### Peer-reviewed conference papers
 
