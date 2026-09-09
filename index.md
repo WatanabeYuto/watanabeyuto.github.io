@@ -23,7 +23,7 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 ### Research updates
 
-- 2026 August: Check out our new preprint [Weak Convexity and Proximal Bundle Methods for Nonsmooth Policy Optimization in Robust Control](https://arxiv.org/pdf/2609.06202)! 
+- 2026 September: Check out our new preprint [Weak Convexity and Proximal Bundle Methods for Nonsmooth Policy Optimization in Robust Control](https://arxiv.org/pdf/2609.06202)! This a journal version of [our ACC paper](https://arxiv.org/abs/2509.25633).
 
 - 2026 July: Our paper [Revisiting Strong Duality, Hidden Convexity, and Gradient Dominance in the Linear Quadratic Regulator](https://arxiv.org/abs/2503.10964) has been published at **SIAM Journal on Control and Optimization!** [[URL]](https://epubs.siam.org/doi/full/10.1137/25M1758623)
 
@@ -33,7 +33,7 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 - 2026 February: Check out our new paper [Gradient Dominance in the Linear Quadratic Regulator: A Unified Analysis for Continuous-Time and Discrete-Time Systems](https://arxiv.org/abs/2602.22577). See also [[Slides]](https://drive.google.com/file/d/17O7PIXuA1OCcGdy_bmpJg0JzLxjXjJLk/view?usp=sharing)
 
-- 2025 December: A talk on [Semidefinite Programming Duality in Infinite-Horizon Linear Quadratic Differential Games](https://arxiv.org/abs/2504.02201) at **IEEE CDC 2025** in Rio, Brazil. [[Slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
+- 2025 December: A talk on [Semidefinite Programming Duality in Infinite-Horizon Linear Quadratic Differential Games](https://arxiv.org/abs/2504.02201) at IEEE CDC 2025 in Rio, Brazil. [[Slides]](https://drive.google.com/file/d/1CCRbqFxUcOWdvHNvNHR6t9i49bbmdrLn/view?usp=sharing)
 
 - 2025 November: My two previous papers at Kyoto Univ finally got accepted to **IEEE Transactions on Automatic Control**. I express my deepest thanks to my former advisor, Prof. Sakurama. [[URL]](https://ieeexplore.ieee.org/document/11264282)  [[URL]](https://ieeexplore.ieee.org/document/11239461)
 
