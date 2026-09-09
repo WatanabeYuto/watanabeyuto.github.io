@@ -23,6 +23,8 @@ In my free time, I enjoy running, juggling, and listening to music.
 
 ### Research updates
 
+- 2026 August: Check out our new preprint [Weak Convexity and Proximal Bundle Methods for Nonsmooth Policy Optimization in Robust Control](https://arxiv.org/pdf/2609.06202)! 
+
 - 2026 July: Our paper [Revisiting Strong Duality, Hidden Convexity, and Gradient Dominance in the Linear Quadratic Regulator](https://arxiv.org/abs/2503.10964) has been published at **SIAM Journal on Control and Optimization!** [[URL]](https://epubs.siam.org/doi/full/10.1137/25M1758623)
 
 - 2026 June: [Our paper on duality in LQR](https://arxiv.org/abs/2606.17208v1) has been accepted for publication in IEEE Control Systems Letters.

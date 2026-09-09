@@ -21,6 +21,8 @@ with a Class of Non-Block-Diagonal Lyapunov Functions,” IEEE Transactions on A
 
 ### Preprints
 
+- **Y. Watanabe**, F.-Y Liao, and Y. Zheng, "Weak Convexity and Proximal Bundle Methods for Nonsmooth Policy Optimization in Robust Control."  [[arXiv]](https://arxiv.org/abs/2609.06202)
+
 - **Y. Watanabe** and Y. Zheng, "Gradient Dominance in the Linear Quadratic Regulator: A Unified Analysis for Continuous-Time and Discrete-Time Systems," submitted to European Journal of Control. [[arXiv]](https://arxiv.org/abs/2602.22577) [[Slides]](https://drive.google.com/file/d/17O7PIXuA1OCcGdy_bmpJg0JzLxjXjJLk/view?usp=sharing)
 
 - C.-F. Pai, **Y. Watanabe**, Y. Tang, and Y. Zheng, "Policy Optimization for Mixed H2/H-infinity Control: Benign Nonconvexity and Global Optimality", submitted to Automatica. [[arXiv]](https://arxiv.org/abs/2603.04843)
